@@ -1,0 +1,3 @@
+patient_id,patient_name,age,gender,disease,doctor_name,admission_date,discharge_date,bill_amount
+2,Priyal Patel,28,Female,Blood Cancer,Dr.Shah,2026-05-03,2026-05-08,16500.0
+1,Rahul Patel,35,Male,Fever,Dr.Patel,2026-05-01,2026-05-05,12000.0
